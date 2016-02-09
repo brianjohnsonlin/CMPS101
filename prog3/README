@@ -1,0 +1,28 @@
+CMPS 101 
+prog3
+
+Brian Lin bjlin@ucsc.edu
+Yunyi Ding yding13@ucsc.edu
+
+Files:
+heap.h: heap ADT header file
+heap.c: The heap ADT
+heapSort.h: heapSort header file
+heapSort.c: heapSort algorithm
+insertionSort.h: insertion sort header file
+insertionSort.c: insertionSort algorithm
+README: This file
+Makefile: Makefile for the heapADT, insertion and heap sort algorithms, and various driver programs
+sortPrint.c: Driver and test file for sorting algorithms
+sortComp.c: Driver program to compare insertion sort and heap sort speeds
+heapDriver.c: Driver file to test heap ADT
+
+We used random.org to generate these test files.
+Test File : # of keys | insertionSort | heapSort
+prog3data1: 10        |  0.00 sec     | 0.00 sec
+prog3data2: 50000     |  3.95 sec     | 0.02 sec
+prog3data3: 10000     |  0.16 sec     | 0.00 sec
+prog3data4: 100000    | 15.60 sec     | 0.05 sec
+
+By comparing the two sorting algorithms with increasing an number of numbers,
+we concluded that heapSort is WAY more efficient than insertionSort. Yup.

@@ -1,0 +1,60 @@
+The shortest path from 62 to 63 requires 2 edges: 
+62 -> 36 -> 63 
+
+The shortest path from 48 to 97 requires 2 edges: 
+48 -> 43 -> 97 
+
+The shortest path from 33 to 6 requires 1 edges: 
+33 -> 6 
+
+The shortest path from 88 to 99 requires 1 edges: 
+88 -> 99 
+
+The shortest path from 17 to 65 requires 1 edges: 
+17 -> 65 
+
+The shortest path from 89 to 7 requires 2 edges: 
+89 -> 30 -> 7 
+
+The shortest path from 68 to 64 requires 1 edges: 
+68 -> 64 
+
+The shortest path from 55 to 9 requires 1 edges: 
+55 -> 9 
+
+The shortest path from 39 to 6 requires 2 edges: 
+39 -> 59 -> 6 
+
+The shortest path from 0 to 73 requires 2 edges: 
+0 -> 32 -> 73 
+
+The shortest path from 46 to 8 requires 1 edges: 
+46 -> 8 
+
+The shortest path from 42 to 69 requires 2 edges: 
+42 -> 51 -> 69 
+
+The shortest path from 70 to 99 requires 1 edges: 
+70 -> 99 
+
+The shortest path from 48 to 6 requires 2 edges: 
+48 -> 63 -> 6 
+
+The shortest path from 55 to 24 requires 1 edges: 
+55 -> 24 
+
+The shortest path from 52 to 91 requires 1 edges: 
+52 -> 91 
+
+The shortest path from 28 to 39 requires 1 edges: 
+28 -> 39 
+
+The shortest path from 93 to 35 requires 1 edges: 
+93 -> 35 
+
+The shortest path from 10 to 83 requires 1 edges: 
+10 -> 83 
+
+The shortest path from 6 to 34 requires 2 edges: 
+6 -> 54 -> 34 
+

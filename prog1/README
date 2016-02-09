@@ -1,0 +1,13 @@
+Brian Lin bjlin Due:4/4/14
+README file for decToBinary program
+
+The decToBinary ADT contains the following files:
+README      	This documentation file
+intstack.h      The header file describing the intstack ADT operations
+intstack.c      The implementation of the intstack ADT
+intstackdr.c	A simple program that tests out the ADT operations
+myinclude.h     includes general files and defines general terms
+decToBinary.c   A simple program that converts decimal values run through stdin
+                into binary values using the intstack ADT
+Makefile        A makefile that complies the module and driver
+                it makes intstack.o, instackdr.o, and decToBinary.o

@@ -1,0 +1,16 @@
+CMPS 101 
+prog4
+
+Brian Lin bjlin@ucsc.edu
+Yunyi Ding yding13@ucsc.edu
+
+Files:
+HashTable.c: A Hash Table data structure ADT
+HashTabledr.c: Driver program for the HashTable ADT
+HashTable.h: header file for the HashTable ADT
+library.c: Program that uses the HashTable ADT to record books in libraries and find those books for customers.
+List.c: A doubly-linked list data structure ADT.
+Listdr.c: Driver program for testing the List ADT.
+List.h: Header file for List.c.
+Makefile: The Makefile for the HashTable ADT and the library program.
+README: This file.
